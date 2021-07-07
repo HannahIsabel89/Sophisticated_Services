@@ -1,0 +1,47 @@
+body {
+    margin:0
+}
+.container {
+    margin: 10px;
+    width: 100vw;
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 20% 1fr;
+    grid-row: 1fr;
+}
+video {
+    
+
+    
+}
+h1 {
+    color: rgb(66, 118, 214);
+    font-size: xx-large;
+    text-align: center;
+    inset-block: 
+}
+
+h2 {
+    font-weight: 300;
+    text-align: center;
+}
+
+p {
+    display: inline-block;
+    block-size: 80%;
+    max-width: 80%;
+    height: 1.5em;
+    text-align: justify;
+    text-align: center;
+}
+
+div {
+    float:inline-start;
+    background-color: rgba(61, 190, 233, 0.288);
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    height: 25vh;
+
+    
+
