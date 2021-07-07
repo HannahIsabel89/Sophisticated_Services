@@ -1,5 +1,6 @@
 body {
-    margin:0
+    margin:0;
+    background-color: lightblue;
 }
 .container {
     margin: 10px;
@@ -15,7 +16,6 @@ video {
     
 }
 h1 {
-    color: rgb(66, 118, 214);
     font-size: xx-large;
     text-align: center;
     inset-block: 
@@ -32,16 +32,21 @@ p {
     max-width: 80%;
     height: 1.5em;
     text-align: justify;
-    text-align: center;
+    text-align:left;
 }
 
 div {
     float:inline-start;
-    background-color: rgba(61, 190, 233, 0.288);
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
-    font-size: medium;
-    height: 25vh;
+    font-size: large;
+    font-weight: bold;
+    height: 20vh;
+    padding: 15px;
+}
+.links div {
+    background-color: rgb(78, 189, 226);
+}
 
     
 
